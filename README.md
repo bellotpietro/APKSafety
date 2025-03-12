@@ -1,13 +1,3 @@
-# APKSafety
-Una interfaz para navegar de forma segura 
-git clone https://github.com/tu-usuario/social-media-safe-box.git
-cd social-media-safe-box
-touch social_media_safe_box.py
-nano social_media_safe_box.py
-git add social_media_safe_box.py
-git commit -m "Add social media safe box script"
-git push origin main
-https://github.com/tu-usuario/social-media-safe-box
 import tkinter as tk
 from tkinter import messagebox
 from PyQt5 import QtWidgets, QtWebEngineWidgets
